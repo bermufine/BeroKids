@@ -4,6 +4,42 @@
     {
       "name": "Movies",
       "videos": [
+        {
+          "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
+          "titleMoz": "CARTOON NETWORK"
+        },
+         {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "DISNEY CHANNEL"
+        },
+        {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
+        },
+         {
+          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
+          "titleMoz": "DISNEY-XD"
+        },
          {
           "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
