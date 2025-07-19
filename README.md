@@ -4,7 +4,37 @@
     {
       "name": "Movies",
       "videos": [
-          {
+         {
+          "descriptionMoz": "X-TOONS television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://145.239.5.177/321/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "416",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "X-TOONS TV"
+        },
+        {
+          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl3.moveonjoy.com/NICKELODEON/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "414",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON"
+        },
+         {
+          "descriptionMoz": "TFOU KIDS television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://145.239.5.177/315/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "417",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "TFOU KIDS"
+        },
+        {
           "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "https://fl3.moveonjoy.com/NICKELODEON/index.m3u8"
@@ -93,7 +123,7 @@
           "numberMoz": "379",
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ1OTdf/babytv.jpeg",
           "titleMoz": "BABY TV"
-        },
+        },h
         {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
@@ -183,6 +213,106 @@
           "numberMoz": "388",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
           "titleMoz": "KIDDI WINKS"
+        },
+         {
+          "descriptionMoz": "Discovery Kids television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://s111.twilightparadox.com/JIO1/live.php?id=554&key=JITENDRAUNATTI&e=.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "409",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "DISCOVERY KIDS"
+        },
+        {
+          "descriptionMoz": "Disney Hindi television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "410",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "DISNEY HINDI"
+        },
+         {
+          "descriptionMoz": "Cartoon Hindi television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "CARTOON HINDI"
+        },
+         {
+          "descriptionMoz": "Disney Kids 2 television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://mag.king-4k.cc/live/C1645263A1D245C/1sFTVBSVCP/1441571.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "412",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "DISNEY KIDS 2"
+        },
+        {
+          "descriptionMoz": "Sony Yay television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "413",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "SONY YAY"
+        },
+         {
+          "descriptionMoz": "NICKELODEON television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "415",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "NICKELODEON"
+        },
+         {
+          "descriptionMoz": "kartoon channel television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "418",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "KARTOON CHANNEL"
+        },
+        {
+          "descriptionMoz": "cartoon classic television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "419",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "CARTOON CLASSIC"
+        },
+         {
+          "descriptionMoz": "pbs kids television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "420",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "PBS KIDS"
+        },
+        {
+          "descriptionMoz": "toonami aftermath television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://api.toonamiaftermath.com:3000/est/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "421",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "TOONAMI AFTERMATCH"
         }
       ]
     }
@@ -239,6 +369,22 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
           "titleMoz": "PIWI PLUS"
         },
+        {
+          "descriptionMoz": "Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://185.59.221.131:8081/live/piwi/playlist.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
+          "titleMoz": "PIWI PLUS"
+        },
+
+
+
+
+
+
+        
        
         {
           "descriptionMoz": "Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.",
