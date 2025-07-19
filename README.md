@@ -123,7 +123,7 @@
           "numberMoz": "379",
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ1OTdf/babytv.jpeg",
           "titleMoz": "BABY TV"
-        },h
+        },
         {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
