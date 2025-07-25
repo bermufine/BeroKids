@@ -5,6 +5,49 @@
       "name": "Movies",
       "videos": [
          {
+          "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "471",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
+          "titleMoz": "GULLI TV"
+        },
+         {
+          "descriptionMoz": "tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "472",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg0ODhf/tivi5.jpeg",
+          "titleMoz": "TIVI 5"
+        },
+         {
+          "descriptionMoz": "ADN+ television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "473",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg0OTBf/adntv.jpeg",
+          "titleMoz": "ADN TV+"
+        },
+         {
+          "descriptionMoz": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "475",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg",
+          "titleMoz": "AFRO KIDS"
+        },
+    {
+      "name": "Movies",
+      "videos": [
+         {
           "descriptionMoz": "X-TOONS television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
           "http://145.239.5.177/321/index.m3u8"
@@ -23,6 +66,16 @@
           "numberMoz": "414",
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
           "titleMoz": "NICKELODEON"
+        },
+         {
+          "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "474",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
+          "titleMoz": "CAILLOU TV"
         },
          {
           "descriptionMoz": "TFOU KIDS television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -404,22 +457,5 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
           "thumbMoz": "https://od.lk/s/NDZfNTMxMjkwMTVf/gulliafrica.jpg",
           "titleMoz": "GULLI AFRICA"
         },
-        {
-          "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
-          "titleMoz": "GULLI TV"
-        },
-          {
-          "descriptionMoz": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493"
-          ],
-          "subtitleMoz": "By Channel",
-          "numberMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg",
-          "titleMoz": "AFRO KIDS"
-        },
+      
+         
