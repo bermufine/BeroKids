@@ -44,7 +44,7 @@
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg",
           "titleMoz": "AFRO KIDS"
         },
-    {
+        {
       "name": "Movies",
       "videos": [
          {
@@ -373,6 +373,12 @@
 }
 
 
+
+
+
+
+
+
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 
 
@@ -431,14 +437,6 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
           "titleMoz": "PIWI PLUS"
         },
-
-
-
-
-
-
-        
-       
         {
           "descriptionMoz": "Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
