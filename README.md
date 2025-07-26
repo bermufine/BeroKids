@@ -44,9 +44,6 @@
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg",
           "titleMoz": "AFRO KIDS"
         },
-        {
-      "name": "Movies",
-      "videos": [
          {
           "descriptionMoz": "X-TOONS television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
