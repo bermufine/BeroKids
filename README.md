@@ -4,6 +4,16 @@
     {
       "name": "Movies",
       "videos": [
+          {
+          "descriptionMoz": "Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://37.187.138.41:80/Piwi-plus/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "517",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
+          "titleMoz": "PIWI PLUS TV"
+        },
          {
           "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -425,15 +435,7 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
           "titleMoz": "PIWI PLUS"
         },
-        {
-          "descriptionMoz": "Piwi Plus television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/piwi/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
-          "titleMoz": "PIWI PLUS"
-        },
+      
         {
           "descriptionMoz": "Teletoon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
