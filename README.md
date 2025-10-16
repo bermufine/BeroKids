@@ -34,36 +34,16 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
           "titleMoz": "X-TOONS TV"
          },
-         {
-          "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
+          {
+          "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl7.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+          "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "414",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
-          "titleMoz": "CARTOON NETWORK"
-        },
-        {
-          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/NICKELODEON/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON"
-        },
-         {
-          "descriptionMoz": "Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/NICKTOONS/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "372",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
-          "titleMoz": "NICKTOONS"
-          },
+          "numberMoz": "471",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
+          "titleMoz": "GULLI TV"
+         },
           {
           "descriptionMoz": "NICKELODEON television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -73,46 +53,6 @@
           "numberMoz": "415",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
           "titleMoz": "NICKELODEON"
-         },
-          {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "974",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
-          "titleMoz": "DISNEY CHANNEL"
-        },
-        {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "373",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
-          "titleMoz": "DISNEY JUNIOR"
-         },
-         {
-          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/NICK_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
-          "titleMoz": "NICK JUNIOR"
-         },
-          {
-          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "374",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
-          "titleMoz": "DISNEY-XD"
          },
          {
           "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -133,6 +73,16 @@
           "numberMoz": "472",
           "thumbMoz": "https://od.lk/s/NDZfODQyMTg0ODhf/tivi5.jpeg",
           "titleMoz": "TIVI 5"
+        },
+        {
+          "descriptionMoz": "Gome One television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "472",
+          "thumbMoz": "https://od.lk/s/NDZfODcwNTY5Njlf/gametvone.png",
+          "titleMoz": "GAME ONE"
         },
          {
           "descriptionMoz": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.",
@@ -298,17 +248,88 @@
     }
   ]
 }
-          
-         {
-          "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
+
+
+
+
+
+
+
+
+
+
+      {
+          "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-          "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8"
+            "https://fl7.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "471",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
-          "titleMoz": "GULLI TV"
+          "numberMoz": "414",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
+          "titleMoz": "CARTOON NETWORK"
         },
+        {
+          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/NICKELODEON/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON"
+        },
+         {
+          "descriptionMoz": "Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/NICKTOONS/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "372",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+          "titleMoz": "NICKTOONS"
+          },
+                {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "974",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "DISNEY CHANNEL"
+        },
+        {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "373",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
+         },
+         {
+          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/NICK_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+          "titleMoz": "NICK JUNIOR"
+         },
+          {
+          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "374",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
+          "titleMoz": "DISNEY-XD"
+         },
+          
+        
          {
           "descriptionMoz": "TFOU KIDS television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
