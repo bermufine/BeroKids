@@ -181,7 +181,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "419",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDc5Mzdf/cartoonclassic.png",
           "titleMoz": "CARTOON CLASSIC"
         },
          {
@@ -191,7 +191,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "420",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "thumbMoz": "https://od.lk/s/NDZfODcwNjE0ODBf/pbskids.jpg",
           "titleMoz": "PBS KIDS"
         },
          {
@@ -211,7 +211,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "421",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "thumbMoz": "https://od.lk/s/NDZfODcwNjA4Mjhf/aftermatch.jpg",
           "titleMoz": "TOONAMI AFTERMATCH"
           },
           {
@@ -222,7 +222,7 @@
           "subtitleMoz": "All Channel",
           "numberMoz": "386",
           "thumbMoz": "https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg",
-          "titleMoz": "RYAN AND FRIENDS"
+          "titleMoz": "RYAN & FRIENDS"
         },
          {
           "descriptionMoz": "Sabrina Serie TV est une chaîne télévisée spécialisée aux enfants et autres...",
@@ -243,7 +243,17 @@
           "numberMoz": "411",
           "thumbMoz": "https://od.lk/s/NDZfODcwNTI2MjRf/cartoonhindi.jpg",
           "titleMoz": "CARTOON HINDI"
-        }
+        },
+        {
+          "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "973",
+          "thumbMoz": "https://od.lk/s/NDZfODcwNTA4NzFf/canalJ.png",
+          "titleMoz": "CANAL J"
+         }
       ]
     }
   ]
