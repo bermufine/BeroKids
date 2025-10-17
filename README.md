@@ -244,6 +244,26 @@
           "thumbMoz": "https://od.lk/s/NDZfODcwNTI2MjRf/cartoonhindi.jpg",
           "titleMoz": "CARTOON HINDI"
         },
+         {
+          "descriptionMoz": "Xilam Animation television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcxMjQwNjNf/xilam.jpg",
+          "titleMoz": "XILAM TV"
+        },
+        {
+          "descriptionMoz": "Wasabi television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcxMjQzMjRf/wasabi.jpg",
+          "titleMoz": "WASABI TV"
+        },
         {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
