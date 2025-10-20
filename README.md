@@ -245,6 +245,16 @@
           "titleMoz": "CARTOON HINDI"
         },
          {
+          "descriptionMoz": "EBS Kids television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w1146310375.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIyNzdf/ebskids.jpg",
+          "titleMoz": "EBS KIDS"
+        },
+         {
           "descriptionMoz": "Xilam Animation television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
@@ -263,6 +273,16 @@
           "numberMoz": "411",
           "thumbMoz": "https://od.lk/s/NDZfODcxMjQzMjRf/wasabi.jpg",
           "titleMoz": "WASABI TV"
+        },
+         {
+          "descriptionMoz": "Kids Toon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=823"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "KIDS TOON TV"
         },
         {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
