@@ -4,7 +4,27 @@
     {
       "name": "Movies",
       "videos": [
-            {
+               {
+          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/NICK_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+          "titleMoz": "NICK JUNIOR"
+         },
+         {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "373",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
+         },
+          {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
@@ -333,27 +353,7 @@
           "numberMoz": "974",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
           "titleMoz": "DISNEY CHANNEL"
-        },
-        {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "373",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
-          "titleMoz": "DISNEY JUNIOR"
-         },
-         {
-          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl41.moveonjoy.com/NICK_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
-          "titleMoz": "NICK JUNIOR"
-         },
+          },
           {
           "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
@@ -363,6 +363,16 @@
           "numberMoz": "374",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
           "titleMoz": "DISNEY-XD"
+         },
+            {
+          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/NICK_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+          "titleMoz": "NICK JUNIOR"
          }
       ]
     }
@@ -402,23 +412,9 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
           "titleMoz": "KIDDI WINKS"
         },
-        
-         
-        
-       
-         
       
 
-
-
-
-
-
-
-
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-
-
  {
           "descriptionMoz": "Tiji television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
