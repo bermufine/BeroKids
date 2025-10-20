@@ -293,6 +293,76 @@
           "numberMoz": "973",
           "thumbMoz": "https://od.lk/s/NDZfODcwNTA4NzFf/canalJ.png",
           "titleMoz": "CANAL J"
+         },
+         {
+          "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "414",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
+          "titleMoz": "CARTOON NETWORK"
+        },
+        {
+          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/NICKELODEON/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON"
+        },
+         {
+          "descriptionMoz": "Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/NICKTOONS/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "372",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+          "titleMoz": "NICKTOONS"
+          },
+          {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "974",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "DISNEY CHANNEL"
+        },
+        {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "373",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
+         },
+         {
+          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/NICK_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+          "titleMoz": "NICK JUNIOR"
+         },
+          {
+          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl41.moveonjoy.com/DISNEY_XD/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "374",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
+          "titleMoz": "DISNEY-XD"
          }
       ]
     }
@@ -308,76 +378,7 @@
 
 
 
-      {
-          "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "414",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
-          "titleMoz": "CARTOON NETWORK"
-        },
-        {
-          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/NICKELODEON/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON"
-        },
-         {
-          "descriptionMoz": "Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/NICKTOONS/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "372",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
-          "titleMoz": "NICKTOONS"
-          },
-                {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "974",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
-          "titleMoz": "DISNEY CHANNEL"
-        },
-        {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/DISNEY_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "373",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
-          "titleMoz": "DISNEY JUNIOR"
-         },
-         {
-          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/NICK_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
-          "titleMoz": "NICK JUNIOR"
-         },
-          {
-          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "374",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
-          "titleMoz": "DISNEY-XD"
-         },
+      
           
         
          {
