@@ -7,7 +7,7 @@
                {
           "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/NICK_JR/index.m3u8"
+            "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "384",
@@ -17,7 +17,7 @@
          {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8"
+            "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "373",
@@ -317,7 +317,7 @@
          {
           "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+            "https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "414",
@@ -327,7 +327,7 @@
         {
           "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/NICKELODEON/index.m3u8"
+            "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "371",
@@ -337,7 +337,7 @@
          {
           "descriptionMoz": "Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/NICKTOONS/index.m3u8"
+            "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "372",
@@ -347,7 +347,7 @@
           {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+            "https://fl1.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "974",
@@ -357,7 +357,7 @@
           {
           "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/DISNEY_XD/index.m3u8"
+            "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "374",
@@ -367,7 +367,7 @@
             {
           "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl41.moveonjoy.com/NICK_JR/index.m3u8"
+            "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "384",
