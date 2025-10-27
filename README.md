@@ -5,6 +5,16 @@
       "name": "Movies",
       "videos": [
                {
+          "descriptionMoz": "Biso Kid TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://37.187.138.41:80/BisoKid/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfODc0NTg1MDBf/bisokid.png",
+          "titleMoz": "BISO KID"
+         },
+          {
           "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
@@ -364,15 +374,15 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
           "titleMoz": "DISNEY-XD"
          },
-            {
-          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+         {
+          "descriptionMoz": "Biso Kid TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
+            "http://37.187.138.41:80/BisoKid/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
-          "titleMoz": "NICK JUNIOR"
+          "thumbMoz": "https://od.lk/s/NDZfODc0NTg1MDBf/bisokid.png",
+          "titleMoz": "BISO KID"
          }
       ]
     }
