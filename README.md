@@ -165,7 +165,7 @@
           "titleMoz": "BABY TV"
          },
           {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "descriptionMoz": "Ninja Kidz television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
             "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
           ],
