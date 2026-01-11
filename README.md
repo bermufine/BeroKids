@@ -4,8 +4,78 @@
     {
       "name": "Movies",
       "videos": [
-               {
-          "descriptionMoz": "Biso Kid TV est une chaîne télévisée spécialisée aux enfants et autres.",
+            {
+          "descriptionMoz": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
+         },
+         {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "373",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
+         },
+         {
+          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "374",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
+          "titleMoz": "DISNEY-XD"
+         },
+          {
+          "descriptionMoz": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON Jr"
+        },
+         {
+          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON"
+        },
+         {
+          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON HD"
+        },
+         {
+          "descriptionMoz": "NICKELODEON television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "415",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
+          "titleMoz": "NICKELODEON"
+         },
+         {
+          "descriptionMoz": "Biso Kids TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "http://37.187.138.41:80/BisoKid/index.m3u8"
           ],
@@ -23,16 +93,6 @@
           "numberMoz": "384",
           "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
           "titleMoz": "NICK JUNIOR"
-         },
-         {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "373",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
-          "titleMoz": "DISNEY JUNIOR"
          },
           {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -63,16 +123,6 @@
           "numberMoz": "471",
           "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
           "titleMoz": "GULLI TV"
-         },
-          {
-          "descriptionMoz": "NICKELODEON television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "415",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
-          "titleMoz": "NICKELODEON"
          },
          {
           "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -334,16 +384,6 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
           "titleMoz": "CARTOON NETWORK"
         },
-        {
-          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON"
-        },
          {
           "descriptionMoz": "Nicktoon television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -365,24 +405,14 @@
           "titleMoz": "DISNEY CHANNEL"
           },
           {
-          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "descriptionMoz": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "374",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
-          "titleMoz": "DISNEY-XD"
-         },
-         {
-          "descriptionMoz": "Biso Kid TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://37.187.138.41:80/BisoKid/index.m3u8"
+            "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfODc0NTg1MDBf/bisokid.png",
-          "titleMoz": "BISO KID"
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "DISNEY JUNIOR"
          }
       ]
     }
@@ -443,16 +473,6 @@ https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg0
           "numberMoz": "410",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
           "titleMoz": "DISNEY HINDI"
-        },
-          {
-          "descriptionMoz": "Kartoon Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "377",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDc4NTRf/kartoonchannel.jpeg",
-          "titleMoz": "KARTOON CHANNEL"
         },
          {
           "descriptionMoz": "Sony Yay television est une chaîne télévisée spécialisée aux enfants et autres.",
