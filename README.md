@@ -95,6 +95,16 @@
           "titleMoz": "NICK JUNIOR"
          },
           {
+          "descriptionMoz": "Mangas television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://vavoo.to/play/139408412/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "373",
+          "thumbMoz": "https://od.lk/s/M18zMjE5NTExNjdf/mangastv.png",
+          "titleMoz": "MANGAS TV"
+         },
+          {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
