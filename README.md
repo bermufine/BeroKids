@@ -4,6 +4,16 @@
     {
       "name": "Movies",
       "videos": [
+        {
+          "descriptionMoz": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://178.33.239.54:8080/700/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "382",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
+          "titleMoz": "CANAL+ KIDS"
+         },
             {
           "descriptionMoz": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -74,6 +84,26 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
           "titleMoz": "NICKELODEON"
          },
+          {
+          "descriptionMoz": "Boomerang television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://178.33.239.54:8080/712/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "971",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "BOOMERANG TV"
+          },
+           {
+          "descriptionMoz": "Cartoonito television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://178.33.239.54:8080/717/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "971",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "CARTOONITO TV"
+          },
          {
           "descriptionMoz": "Biso Kids TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
