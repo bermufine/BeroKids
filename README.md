@@ -444,15 +444,15 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
           "titleMoz": "DISNEY CHANNEL"
           },
-          {
-          "descriptionMoz": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+            {
+          "descriptionMoz": "Kiddies TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8"
+            "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/d728b860-b892-4939-aab0-1833f9261090/source/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "382",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
-          "titleMoz": "DISNEY JUNIOR"
+          "numberMoz": "000",
+          "thumbMoz": "https://od.lk/s/NDZfOTI2NDgwNzlf/kiddies.jpg",
+          "titleMoz": "KIDDIES TV"
          }
       ]
     }
