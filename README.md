@@ -4,7 +4,17 @@
     {
       "name": "Movies",
       "videos": [
-           {
+      {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://206.212.244.63/655/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "974",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "DISNEY CHANNEL"
+          },
+          {
           "descriptionMoz": "Kiddies TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/d728b860-b892-4939-aab0-1833f9261090/source/index.m3u8"
@@ -27,7 +37,7 @@
          {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8"
+            "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "373",
@@ -37,7 +47,7 @@
          {
           "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
+            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "374",
@@ -53,16 +63,6 @@
           "numberMoz": "371",
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
           "titleMoz": "NICKELODEON Jr"
-        },
-         {
-          "descriptionMoz": "Nickelodeon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON"
         },
          {
           "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -85,25 +85,15 @@
           "titleMoz": "NICKELODEON"
          },
           {
-          "descriptionMoz": "Boomerang television est une chaîne télévisée spécialisée aux enfants.",
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "http://178.33.239.54:8080/712/index.m3u8"
+            "http://40.160.24.52/Disney_Channel_HD/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "971",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
-          "titleMoz": "BOOMERANG TV"
-          },
-           {
-          "descriptionMoz": "Cartoonito television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "http://178.33.239.54:8080/717/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "971",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
-          "titleMoz": "CARTOONITO TV"
-          },
+          "titleMoz": "DISNEY CHANNEL"
+         },
          {
           "descriptionMoz": "Biso Kids TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -125,19 +115,9 @@
           "titleMoz": "NICK JUNIOR"
          },
           {
-          "descriptionMoz": "Mangas television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://vavoo.to/play/139408412/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "373",
-          "thumbMoz": "https://od.lk/s/M18zMjE5NTExNjdf/mangastv.png",
-          "titleMoz": "MANGAS TV"
-         },
-          {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8"
+            "http://41.205.77.102/CANALJ/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "973",
@@ -154,15 +134,25 @@
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
           "titleMoz": "PIWI PLUS TV"
          },
-          {
+        {
           "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-          "https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8"
+          "http://99.27.51.147:8080/Gulli/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "471",
           "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
           "titleMoz": "GULLI TV"
+         },
+         {
+          "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://41.205.77.102/GULLI/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "471",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
+          "titleMoz": "GULLI HD"
          },
          {
           "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -364,6 +354,16 @@
           "thumbMoz": "https://od.lk/s/NDZfODcwNTI2MjRf/cartoonhindi.jpg",
           "titleMoz": "CARTOON HINDI"
         },
+        {
+          "descriptionMoz": "Tiji television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://41.205.77.102/TIJI/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg",
+          "titleMoz": "TIJI TV"
+        },
          {
           "descriptionMoz": "EBS Kids television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -437,23 +437,13 @@
           {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "https://fl1.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+            "http://206.212.244.63/655/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "974",
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
           "titleMoz": "DISNEY CHANNEL"
-          },
-            {
-          "descriptionMoz": "Kiddies TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/d728b860-b892-4939-aab0-1833f9261090/source/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "000",
-          "thumbMoz": "https://od.lk/s/NDZfOTI2NDgwNzlf/kiddies.jpg",
-          "titleMoz": "KIDDIES TV"
-         }
+          }
       ]
     }
   ]
@@ -470,7 +460,16 @@
 
       
           
-        
+          {
+          "descriptionMoz": "Mangas television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://vavoo.to/play/139408412/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "373",
+          "thumbMoz": "https://od.lk/s/M18zMjE5NTExNjdf/mangastv.png",
+          "titleMoz": "MANGAS TV"
+         },
          {
           "descriptionMoz": "TFOU KIDS television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -495,15 +494,7 @@
       
 
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
- {
-          "descriptionMoz": "Tiji television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/tiji/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg",
-          "titleMoz": "TIJI TV"
-        },
+
         {
           "descriptionMoz": "Disney Hindi television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
