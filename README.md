@@ -7,7 +7,7 @@
       {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "http://206.212.244.63/655/index.m3u8"
+            "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "974",
@@ -27,7 +27,7 @@
          {
           "descriptionMoz": "Disney Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "http://151.80.18.177:86/Disney_Junior_HD/index.m3u8"
+            "http://181.78.14.26:4000/play/a073/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "384",
