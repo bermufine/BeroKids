@@ -7,7 +7,7 @@
       {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
+            "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "974",
@@ -87,7 +87,7 @@
           {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
-            "http://40.160.24.52/Disney_Channel_HD/index.m3u8"
+            "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "971",
