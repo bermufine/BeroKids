@@ -424,6 +424,16 @@
           "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNDU5X3VGSDMx",
           "titleMoz": "CINEMAN TV"
       },
+       {
+          "descriptionMoz": "god stands kids club television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTQ2X0d4UmpH",
+          "titleMoz": "GOD STANDS"
+      },
       {
           "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
