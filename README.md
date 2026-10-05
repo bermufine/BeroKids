@@ -231,7 +231,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjcyXzQxMHdh",
           "titleMoz": "JIM-JAM TV"
       },
       {
@@ -241,7 +241,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjc0X1F5dGxS",
           "titleMoz": "CONHUE TV"
       },
       {
@@ -251,7 +251,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjc4X2Y2WUww",
           "titleMoz": "KIDZ TV"
       },
       {
@@ -261,7 +261,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNDY0X2w5QUV1",
           "titleMoz": "KINO KAZKHA"
       },
       {
@@ -271,7 +271,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjczX1lxS2wy",
           "titleMoz": "CTC KIDZ"
       },
       {
@@ -281,7 +281,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgyX2FSYmZY",
           "titleMoz": "NICKTOONS"
       },
       {
@@ -301,7 +301,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzODk3Xzc0d0VT",
           "titleMoz": "NICK JR CLUB"
       },
       {
@@ -311,7 +311,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzOTQ2X1pweW5D",
           "titleMoz": "NICK JR"
       },
       {
@@ -321,7 +321,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgxX2hhZnZn",
           "titleMoz": "NICKONLINE"
       },
       {
@@ -331,7 +331,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNDY2XzNOVlZU",
           "titleMoz": "MYNBT"
       },
       {
@@ -351,7 +351,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjg1X1ZlSmxp",
           "titleMoz": "DA VINCI"
       },
       {
@@ -371,7 +371,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjg0X1lBbndR",
           "titleMoz": "NIKI KIDZ"
       },
       {
@@ -391,7 +391,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgzX0g0Umkx",
           "titleMoz": "NIKCEAB"
       },
       {
@@ -401,7 +401,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgwX3RRVVh0",
           "titleMoz": "MIOK TV"
       },
       {
@@ -411,7 +411,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNDU5X3VGSDMx",
           "titleMoz": "CINEMAN TV"
       },
       {
