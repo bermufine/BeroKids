@@ -22,17 +22,27 @@
           "subtitleMoz": "All Channel",
           "numberMoz": "371",
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON Jr"
+          "titleMoz": "NICKELODEON 1"
     },
     {
           "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
+            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "371",
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON HD"
+          "titleMoz": "NICKELODEON 2"
+    },
+    {
+          "descriptionMoz": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON 3"
     },
     {
           "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -215,14 +225,14 @@
           "titleMoz": "TIJI TV"
       },
       {
-          "descriptionMoz": "Kids Toon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "descriptionMoz": "JimJam television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "http://stream.mcquack.net/150/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
           "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
-          "titleMoz": "KIDS TOON TV"
+          "titleMoz": "JIM-JAM TV"
       },
       {
           "descriptionMoz": "Conhue television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -233,7 +243,187 @@
           "numberMoz": "411",
           "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
           "titleMoz": "CONHUE TV"
-      }
+      },
+      {
+          "descriptionMoz": "Kidz television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/144/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "KIDZ TV"
+      },
+      {
+          "descriptionMoz": "Kino kazkha television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/167/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "KINO KAZKHA"
+      },
+      {
+          "descriptionMoz": "CTC kidz television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/197/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "CTC KIDZ"
+      },
+      {
+          "descriptionMoz": "nicktoons television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NICKTOONS"
+      },
+      {
+          "descriptionMoz": "nicktoons television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NICKTOONS 2"
+      },
+      {
+          "descriptionMoz": "nick jr club television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NICK JR CLUB"
+      },
+      {
+          "descriptionMoz": "Nick Jr television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/220/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NICK JR"
+      },
+      {
+          "descriptionMoz": "nickOline television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://x1colegal.com/hls/stream.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NICKONLINE"
+      },
+      {
+          "descriptionMoz": "Mynbt television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/232/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "MYNBT"
+      },
+      {
+          "descriptionMoz": "Aom knho television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/236/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "AOM KNHO"
+      },
+      {
+          "descriptionMoz": "Da vinci television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/238/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "DA VINCI"
+      },
+      {
+          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/262/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+          "titleMoz": "NICK JUNIOR"
+      },
+      {
+          "descriptionMoz": "Niki kidz television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/271/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NIKI KIDZ"
+      },
+      {
+          "descriptionMoz": "Gulli Girl television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://stream.mcquack.net/305/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "471",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
+          "titleMoz": "GULLI GIRL"
+      },
+      {
+          "descriptionMoz": "Nikceab television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/323/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "NIKCEAB"
+      },
+      {
+          "descriptionMoz": "Miok television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/339/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "MIOK TV"
+      },
+      {
+          "descriptionMoz": "Cineman television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/348/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "CINEMAN TV"
+      },
+      {
+          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "374",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
+          "titleMoz": "DISNEY-XD"
+        }
       ]
     }
   ]
@@ -314,16 +504,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODc0NTg1MDBf/bisokid.png",
           "titleMoz": "BISO KID"
          },
-          {
-          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://fl1.moveonjoy.com/NICK_JR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
-          "titleMoz": "NICK JUNIOR"
-         },
+          
           {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -344,16 +525,7 @@
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ0MjRf/piwiplus.jpeg",
           "titleMoz": "PIWI PLUS TV"
          },
-        {
-          "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "http://99.27.51.147:8080/Gulli/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "471",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
-          "titleMoz": "GULLI TV"
-         },
+       
          {
           "descriptionMoz": "Gulli television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
