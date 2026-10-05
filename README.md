@@ -203,7 +203,37 @@
           "numberMoz": "411",
           "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
           "titleMoz": "KIDS TOON TV"
-        }
+      },
+      {
+          "descriptionMoz": "Tiji television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/111/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg",
+          "titleMoz": "TIJI TV"
+      },
+      {
+          "descriptionMoz": "Kids Toon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/150/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "KIDS TOON TV"
+      },
+      {
+          "descriptionMoz": "Conhue television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/118/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "CONHUE TV"
+      }
       ]
     }
   ]
@@ -404,16 +434,7 @@
 
          
       
-        {
-          "descriptionMoz": "Tiji television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://41.205.77.102/TIJI/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg",
-          "titleMoz": "TIJI TV"
-        },
+        
          
          {
           "descriptionMoz": "Xilam Animation television est une chaîne télévisée spécialisée aux enfants et autres.",
