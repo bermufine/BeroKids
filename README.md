@@ -4,6 +4,216 @@
     {
       "name": "Movies",
       "videos": [
+       {
+          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "374",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
+          "titleMoz": "DISNEY-XD"
+      },
+      {
+          "descriptionMoz": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON Jr"
+    },
+    {
+          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "titleMoz": "NICKELODEON HD"
+    },
+    {
+          "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "474",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
+          "titleMoz": "CAILLOU TV"
+    },
+    {
+          "descriptionMoz": "tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "472",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg0ODhf/tivi5.jpeg",
+          "titleMoz": "TIVI 5"
+   },
+   {
+          "descriptionMoz": "ADN+ television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "473",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg0OTBf/adntv.jpeg",
+          "titleMoz": "ADN TV+"
+    },
+    {
+          "descriptionMoz": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "475",
+          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg",
+          "titleMoz": "AFRO KIDS"
+    },
+    {
+          "descriptionMoz": "Mr Bean TV est une chaîne privée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "378",
+          "thumbMoz": "https://od.lk/s/M18yODc0NTc4Mzdf/Beans.jpeg",
+          "titleMoz": "MR BEAN TV"
+      },
+      {
+          "descriptionMoz": "Ninja Kidz television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "380",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDc2ODdf/ninjakidz.jpeg",
+          "titleMoz": "NINJA KIDZ"
+      },
+      {
+          "descriptionMoz": "Prsiana Junior television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://junhls.persiana.live/hls/stream.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "381",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDgyMjhf/persianaJunior.jpeg",
+          "titleMoz": "PERSIANA JUNIOR"
+      },
+      {
+          "descriptionMoz": "Kidoo+ television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "382",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDgwMjdf/kidoo.png",
+          "titleMoz": "KIDOO+ TV"
+     },
+    {
+          "descriptionMoz": "toonami aftermath television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://api.toonamiaftermath.com:3000/est/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "421",
+          "thumbMoz": "https://od.lk/s/NDZfODcwNjA4Mjhf/aftermatch.jpg",
+          "titleMoz": "TOONAMI AFTERMATCH"
+      },
+      {
+          "descriptionMoz": "Tortue Ninja television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050351-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8626ec32-5f10-4aef-bfdb-f5495f6d4ff1&serverSideAds=false"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "385",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxNTI3ODNf/tortues.jpeg",
+          "titleMoz": "TORTUE NINJA"
+      },
+      {
+          "descriptionMoz": "cartoon classic television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "419",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDc5Mzdf/cartoonclassic.png",
+          "titleMoz": "CARTOON CLASSIC"
+      },
+      {
+          "descriptionMoz": "Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "386",
+          "thumbMoz": "https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg",
+          "titleMoz": "RYAN & FRIENDS"
+      },
+      {
+          "descriptionMoz": "Sabrina Serie TV est une chaîne télévisée spécialisée aux enfants et autres...",
+          "sourceMoz": [
+            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d91f8235-755b-4e9c-8062-05d444de314d&serverSideAds=false"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "387",
+          "thumbMoz": "https://od.lk/s/NDZfNTE4NzA3NTBf/sabrinatv.jpeg",
+          "titleMoz": "SABRIBA SERIE"
+      },
+      {
+          "descriptionMoz": "Cartoon Hindi television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcwNTI2MjRf/cartoonhindi.jpg",
+          "titleMoz": "CARTOON HINDI"
+      },
+      {
+          "descriptionMoz": "Wasabi television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcxMjQzMjRf/wasabi.jpg",
+          "titleMoz": "WASABI TV"
+      },
+      {
+          "descriptionMoz": "EBS Kids television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w1146310375.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIyNzdf/ebskids.jpg",
+          "titleMoz": "EBS KIDS"
+      },
+      {
+          "descriptionMoz": "Kids Toon television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=823"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "KIDS TOON TV"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+         
       {
           "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
@@ -44,36 +254,6 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
           "titleMoz": "DISNEY JUNIOR"
          },
-         {
-          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "374",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
-          "titleMoz": "DISNEY-XD"
-         },
-          {
-          "descriptionMoz": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON Jr"
-        },
-         {
-          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON HD"
-        },
          {
           "descriptionMoz": "NICKELODEON television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -154,26 +334,7 @@
           "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
           "titleMoz": "GULLI HD"
          },
-         {
-          "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "474",
-          "thumbMoz": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
-          "titleMoz": "CAILLOU TV"
-          },
-          {
-          "descriptionMoz": "tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "472",
-          "thumbMoz": "https://od.lk/s/NDZfODQyMTg0ODhf/tivi5.jpeg",
-          "titleMoz": "TIVI 5"
-        },
+         
         {
           "descriptionMoz": "Gome One television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -184,16 +345,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODcwNTY5Njlf/gametvone.png",
           "titleMoz": "GAME ONE"
         },
-         {
-          "descriptionMoz": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "475",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2ODBf/afrokids.jpeg",
-          "titleMoz": "AFRO KIDS"
-        },
+         
         {
           "descriptionMoz": "Cartoon Network television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -204,16 +356,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODIxNDgxMDFf/kidspang.jpeg",
           "titleMoz": "KIDS PANG"
         },
-        {
-          "descriptionMoz": "ADN+ television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "473",
-          "thumbMoz": "https://od.lk/s/NDZfODQyMTg0OTBf/adntv.jpeg",
-          "titleMoz": "ADN TV+"
-          },
+       
          {
           "descriptionMoz": "Discovery Kids television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -224,16 +367,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODcwNTE4NzJf/discpverykids.jpg",
           "titleMoz": "DISCOVERY KIDS"
           },
-          {
-          "descriptionMoz": "Mr Bean TV est une chaîne privée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "378",
-          "thumbMoz": "https://od.lk/s/M18yODc0NTc4Mzdf/Beans.jpeg",
-          "titleMoz": "MR BEAN TV"
-          },
+        
           {
           "descriptionMoz": "Baby First TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -244,46 +378,9 @@
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ1OTdf/babytv.jpeg",
           "titleMoz": "BABY TV"
          },
-          {
-          "descriptionMoz": "Ninja Kidz television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "380",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDc2ODdf/ninjakidz.jpeg",
-          "titleMoz": "NINJA KIDZ"
-        },
-        {
-          "descriptionMoz": "Prsiana Junior television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://junhls.persiana.live/hls/stream.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "381",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDgyMjhf/persianaJunior.jpeg",
-          "titleMoz": "PERSIANA JUNIOR"
-            },
-            {
-          "descriptionMoz": "Kidoo+ television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "382",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDgwMjdf/kidoo.png",
-          "titleMoz": "KIDOO+ TV"
-            },
-              {
-          "descriptionMoz": "cartoon classic television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "419",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDc5Mzdf/cartoonclassic.png",
-          "titleMoz": "CARTOON CLASSIC"
-        },
+         
+       
+              
          {
           "descriptionMoz": "pbs kids television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -295,16 +392,6 @@
           "titleMoz": "PBS KIDS"
         },
          {
-          "descriptionMoz": "Tortue Ninja television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050351-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8626ec32-5f10-4aef-bfdb-f5495f6d4ff1&serverSideAds=false"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "385",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxNTI3ODNf/tortues.jpeg",
-          "titleMoz": "TORTUE NINJA"
-        },
-         {
           "descriptionMoz": "X-TOONS television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
           "http://145.239.5.177/321/index.m3u8"
@@ -314,46 +401,9 @@
           "thumbMoz": "https://od.lk/s/NDZfODcwNjY0MjBf/xtoonstv.png",
           "titleMoz": "X-TOONS TV"
          },
-        {
-          "descriptionMoz": "toonami aftermath television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "http://api.toonamiaftermath.com:3000/est/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "421",
-          "thumbMoz": "https://od.lk/s/NDZfODcwNjA4Mjhf/aftermatch.jpg",
-          "titleMoz": "TOONAMI AFTERMATCH"
-          },
-          {
-          "descriptionMoz": "Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "386",
-          "thumbMoz": "https://od.lk/s/M18yODc0NTcyOTFf/ryanetkids.jpeg",
-          "titleMoz": "RYAN & FRIENDS"
-        },
-         {
-          "descriptionMoz": "Sabrina Serie TV est une chaîne télévisée spécialisée aux enfants et autres...",
-          "sourceMoz": [
-            "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d91f8235-755b-4e9c-8062-05d444de314d&serverSideAds=false"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "387",
-          "thumbMoz": "https://od.lk/s/NDZfNTE4NzA3NTBf/sabrinatv.jpeg",
-          "titleMoz": "SABRIBA SERIE"
-        },
-        {
-          "descriptionMoz": "Cartoon Hindi television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcwNTI2MjRf/cartoonhindi.jpg",
-          "titleMoz": "CARTOON HINDI"
-        },
+
+         
+      
         {
           "descriptionMoz": "Tiji television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -364,16 +414,7 @@
           "thumbMoz": "https://od.lk/s/M18yODk0MDQ0NzJf/tiji.jpeg",
           "titleMoz": "TIJI TV"
         },
-         {
-          "descriptionMoz": "EBS Kids television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w1146310375.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIyNzdf/ebskids.jpg",
-          "titleMoz": "EBS KIDS"
-        },
+         
          {
           "descriptionMoz": "Xilam Animation television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -384,26 +425,9 @@
           "thumbMoz": "https://od.lk/s/NDZfODcxMjQwNjNf/xilam.jpg",
           "titleMoz": "XILAM TV"
         },
-        {
-          "descriptionMoz": "Wasabi television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcxMjQzMjRf/wasabi.jpg",
-          "titleMoz": "WASABI TV"
-        },
-         {
-          "descriptionMoz": "Kids Toon television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://stream.ads.ottera.tv/playlist.m3u8?network_id=823"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
-          "titleMoz": "KIDS TOON TV"
-        },
+        
+        
+        
         {
           "descriptionMoz": "Canal J television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -444,22 +468,7 @@
           "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
           "titleMoz": "DISNEY CHANNEL"
           }
-      ]
-    }
-  ]
-}
 
-
-
-
-
-
-
-
-
-
-      
-          
           {
           "descriptionMoz": "Mangas television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
