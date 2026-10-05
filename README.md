@@ -5,16 +5,16 @@
       "name": "Movies",
       "videos": [
       {
-          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
+          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk1X0N6V0xu",
-          "titleMoz": "NICKELODEON 2"
+          "numberMoz": "474",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
+          "titleMoz": "CAILLOU TV"
       },
-       {
+      {
           "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
             "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
@@ -34,6 +34,86 @@
           "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
           "titleMoz": "NICKELODEON 1"
     },
+     {
+          "descriptionMoz": "nickOline television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "https://x1colegal.com/hls/stream.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgxX2hhZnZn",
+          "titleMoz": "NICKONLINE"
+      },
+      {
+          "descriptionMoz": "Mynbt television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/232/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNDY2XzNOVlZU",
+          "titleMoz": "MYNBT"
+      },
+      {
+          "descriptionMoz": "Aom knho television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/236/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
+          "titleMoz": "AOM KNHO"
+      },
+      {
+          "descriptionMoz": "Da vinci television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/238/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjg1X1ZlSmxp",
+          "titleMoz": "DA VINCI"
+      },
+      {
+          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/262/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "384",
+          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+          "titleMoz": "NICK JUNIOR"
+      },
+      {
+          "descriptionMoz": "Niki kidz television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/271/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjg0X1lBbndR",
+          "titleMoz": "NIKI KIDZ"
+      },
+      {
+          "descriptionMoz": "Gulli Girl television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+          "http://stream.mcquack.net/305/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "471",
+          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
+          "titleMoz": "GULLI GIRL"
+      },
+      {
+          "descriptionMoz": "Nikceab television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://stream.mcquack.net/323/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "411",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgzX0g0Umkx",
+          "titleMoz": "NIKCEAB"
+    },
     {
           "descriptionMoz": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
@@ -43,16 +123,6 @@
           "numberMoz": "371",
           "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk0X3hEcGR4",
           "titleMoz": "NICKELODEON 3"
-    },
-    {
-          "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "474",
-          "thumbMoz": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
-          "titleMoz": "CAILLOU TV"
     },
     {
           "descriptionMoz": "tivi 5 television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -73,6 +143,16 @@
           "numberMoz": "473",
           "thumbMoz": "https://od.lk/s/NDZfODQyMTg0OTBf/adntv.jpeg",
           "titleMoz": "ADN TV+"
+    },
+    {
+          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk1X0N6V0xu",
+          "titleMoz": "NICKELODEON 2"
     },
     {
           "descriptionMoz": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres.",
@@ -311,7 +391,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzODk3Xzc0d0VT",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MjAxX1BSbmhh",
           "titleMoz": "NICK JR CLUB"
       },
       {
@@ -323,86 +403,6 @@
           "numberMoz": "411",
           "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzOTQ2X1pweW5D",
           "titleMoz": "NICK JR"
-      },
-      {
-          "descriptionMoz": "nickOline television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "https://x1colegal.com/hls/stream.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgxX2hhZnZn",
-          "titleMoz": "NICKONLINE"
-      },
-      {
-          "descriptionMoz": "Mynbt television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://stream.mcquack.net/232/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNDY2XzNOVlZU",
-          "titleMoz": "MYNBT"
-      },
-      {
-          "descriptionMoz": "Aom knho television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://stream.mcquack.net/236/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/s/NDZfODcyNTIzMTJf/kidstoons.png",
-          "titleMoz": "AOM KNHO"
-      },
-      {
-          "descriptionMoz": "Da vinci television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://stream.mcquack.net/238/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjg1X1ZlSmxp",
-          "titleMoz": "DA VINCI"
-      },
-      {
-          "descriptionMoz": "Nick Junior TV est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://stream.mcquack.net/262/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "384",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
-          "titleMoz": "NICK JUNIOR"
-      },
-      {
-          "descriptionMoz": "Niki kidz television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://stream.mcquack.net/271/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjg0X1lBbndR",
-          "titleMoz": "NIKI KIDZ"
-      },
-      {
-          "descriptionMoz": "Gulli Girl television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-          "http://stream.mcquack.net/305/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "471",
-          "thumbMoz": "https://od.lk/s/M18yODk0MDQzOTJf/gullitv.jpeg",
-          "titleMoz": "GULLI GIRL"
-      },
-      {
-          "descriptionMoz": "Nikceab television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://stream.mcquack.net/323/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDUzNjgzX0g0Umkx",
-          "titleMoz": "NIKCEAB"
       },
       {
           "descriptionMoz": "Miok television est une chaîne télévisée spécialisée aux enfants et autres.",
@@ -435,14 +435,14 @@
           "titleMoz": "GOD STANDS"
       },
       {
-          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "descriptionMoz": "CAILLOU television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
+          "https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk1X0N6V0xu",
-          "titleMoz": "NICKELODEON 2"
+          "numberMoz": "474",
+          "thumbMoz": "https://od.lk/s/NDZfODQyMTg1MDBf/caillou.png",
+          "titleMoz": "CAILLOU TV"
         }
       ]
     }
