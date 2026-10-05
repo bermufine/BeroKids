@@ -4,6 +4,16 @@
     {
       "name": "Movies",
       "videos": [
+      {
+          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
+          "sourceMoz": [
+            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk1X0N6V0xu",
+          "titleMoz": "NICKELODEON 2"
+      },
        {
           "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
           "sourceMoz": [
@@ -25,23 +35,13 @@
           "titleMoz": "NICKELODEON 1"
     },
     {
-          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
-          "sourceMoz": [
-            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
-          "titleMoz": "NICKELODEON 2"
-    },
-    {
           "descriptionMoz": "Nickelodeon Junior television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "371",
-          "thumbMoz": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk0X3hEcGR4",
           "titleMoz": "NICKELODEON 3"
     },
     {
@@ -431,18 +431,18 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "411",
-          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTQ2X0d4UmpH",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTkwX3E5cEtF",
           "titleMoz": "GOD STANDS"
       },
       {
-          "descriptionMoz": "Disney XD television est une chaîne télévisée spécialisée aux enfants.",
+          "descriptionMoz": "Nickelodeon HD television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
-            "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+            "http://198.58.104.90:8989/nickelodeon/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
-          "numberMoz": "374",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
-          "titleMoz": "DISNEY-XD"
+          "numberMoz": "371",
+          "thumbMoz": "https://od.lk/thumb/NzNfMTQ4MDU0MTk1X0N6V0xu",
+          "titleMoz": "NICKELODEON 2"
         }
       ]
     }
