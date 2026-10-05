@@ -265,6 +265,16 @@
           "titleMoz": "KINO KAZKHA"
       },
       {
+          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
+          "sourceMoz": [
+            "http://88.212.15.19/live/disney_channel_hun/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "974",
+          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
+          "titleMoz": "DISNEY CHANNEL"
+      },
+      {
           "descriptionMoz": "CTC kidz television est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
             "http://stream.mcquack.net/197/index.m3u8"
@@ -434,16 +444,7 @@
 
 
          
-      {
-          "descriptionMoz": "Disney Channel television est une chaîne télévisée spécialisée aux enfants.",
-          "sourceMoz": [
-            "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "974",
-          "thumbMoz": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
-          "titleMoz": "DISNEY CHANNEL"
-          },
+      
           {
           "descriptionMoz": "Kiddies TV est une chaîne télévisée spécialisée aux enfants et autres.",
           "sourceMoz": [
